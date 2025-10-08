@@ -1,4 +1,4 @@
-# Physics-aware Refinement of 3D Human Motion
+# Physics-Aware Refinement of 3D Human Motion
 
 ## Introduction
 This project focuses on physics-aware refinement of text-generated human motion, aiming to ensure that the resulting animations are physically realistic and free from common artifacts such as foot-skating, floating, and ground penetration. The motion data is represented as 3D joint positions across frames, while the human body is modeled using the SMPL representation with 21 joints with downstream applications in animation & gaming industries.
